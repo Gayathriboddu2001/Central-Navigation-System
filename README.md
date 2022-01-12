@@ -1,0 +1,2 @@
+# Central-Navigation-System
+Establish socket connection with esp32 | Obtaining the live feed from IP webcam|Understand the arena | Track the bot using aruco codes(openCV) | Navigation algorithms(This video is fed into the navigation code, which then determines the bot’s action based on its position the bot is tracked using Aruco code which will be pasted on top of the bot Flipping Mechanism used in robots to drop the cubes
